@@ -4,3 +4,15 @@ body{
     justify-content: center;
 }
 
+.frPrincipal{
+    width: 85rem;
+    height: 40rem;
+    background: rgb(29, 18, 48);
+    border-radius: 1%;
+}
+.frMenu{
+    width: 80rem;
+    height: 10rem;
+    background: rgb(24, 15, 39);
+    border: 1%;
+}
